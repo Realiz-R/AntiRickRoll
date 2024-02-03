@@ -1,4 +1,4 @@
-# AntiRickRoll By Realiz_ and Dogert
+# AntiRickRoll By Realiz_
 English:
 
 For communication:
